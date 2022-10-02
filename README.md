@@ -1,7 +1,7 @@
 # @mechavulpix Custom SteamDeck Startups
 My personal collection of custom startup animations for the SteamDeck.
 Videos created by me.
-Script and startup config/installation forked from (steamdeck_startup_animations)[https://github.com/kageurufu/steamdeck_startup_animations]
+Script and startup config/installation forked from [steamdeck_startup_animations](https://github.com/kageurufu/steamdeck_startup_animations)
 
 # From the Original README.md:
 ## Installation
